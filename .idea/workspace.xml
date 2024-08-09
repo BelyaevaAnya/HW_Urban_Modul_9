@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84bc524c-1f10-4bb4-a703-1c7b955eed40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcpectGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConcpectIterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcpectGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConcpectGenerator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,22 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ConcpectCreateFunc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectFunctionProgramming.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectGenerationCollection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectIterators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ConcpectListDictCollections.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_9_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_9_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_9_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module_9_5.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ConcpectCreateFunc.executor": "Run",
+    "Python.ConcpectFunctionProgramming.executor": "Run",
+    "Python.ConcpectGenerationCollection.executor": "Run",
+    "Python.ConcpectGenerator.executor": "Run",
+    "Python.ConcpectIterators.executor": "Run",
+    "Python.ConcpectListDictCollections.executor": "Run",
+    "Python.module_9_1.executor": "Run",
+    "Python.module_9_2.executor": "Run",
+    "Python.module_9_3.executor": "Run",
+    "Python.module_9_4.executor": "Run",
+    "Python.module_9_5.executor": "Run",
+    "Python.module_9_6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ConcpectFunctionProgramming" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HW_Urban_Modul_9" />
