@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84bc524c-1f10-4bb4-a703-1c7b955eed40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_9_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectDecorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConcpectGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConcpectGenerator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ConcpectCreateFunc.executor": "Run",
+    "Python.ConcpectDecorators.executor": "Run",
     "Python.ConcpectFunctionProgramming.executor": "Run",
     "Python.ConcpectGenerationCollection.executor": "Run",
     "Python.ConcpectGenerator.executor": "Run",
@@ -62,6 +63,7 @@
     "Python.module_9_4.executor": "Run",
     "Python.module_9_5.executor": "Run",
     "Python.module_9_6.executor": "Run",
+    "Python.module_9_7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
