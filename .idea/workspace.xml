@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84bc524c-1f10-4bb4-a703-1c7b955eed40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConcpectDecorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcpectDecorators2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +52,13 @@
   "keyToString": {
     "Python.ConcpectCreateFunc.executor": "Run",
     "Python.ConcpectDecorators.executor": "Run",
+    "Python.ConcpectDecorators2.executor": "Run",
     "Python.ConcpectFunctionProgramming.executor": "Run",
     "Python.ConcpectGenerationCollection.executor": "Run",
     "Python.ConcpectGenerator.executor": "Run",
     "Python.ConcpectIterators.executor": "Run",
     "Python.ConcpectListDictCollections.executor": "Run",
+    "Python.Practice.executor": "Run",
     "Python.module_9_1.executor": "Run",
     "Python.module_9_2.executor": "Run",
     "Python.module_9_3.executor": "Run",
